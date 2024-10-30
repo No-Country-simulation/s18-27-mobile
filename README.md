@@ -5,14 +5,30 @@ Techland plataforma de cursos de IT online dirigidos a estudiantes y publico en 
 
 ## Tabla de Contenidos
 
-- [Instalación](#instalación)
-- [Uso](#uso)
-- [Contribuciones](#contribuciones)
-- [Licencia](#licencia)
-- [Contacto](#contacto)
 
-## Instalación
+- [Introduccion](#Introduccion)
+- [Contribuciones](#contribuciones)
+- [Participantes](#Participantes)
+- [Tecnologia](#Tecnologias)
+
+
+
+## Participantes
+
+- Forencia Ortiz
+- Yesica Leon Ccahuana 
 
 1. Clona el repositorio:
    ```bash
    git clone https://github.com/usuario/proyecto.git
+   
+## Tecnologias 
+
+ - react-native ,expo
+ - firebase
+ - javascript
+ - Node.js
+ - Android studio
+ - git
+ - VSC
+   
