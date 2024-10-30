@@ -30,7 +30,8 @@ Techland plataforma de cursos de IT online dirigidos a estudiantes y publico en 
 
 ## MVP NO COUNTRY
 
-https://www.notion.so/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F19108f08-903f-4008-88ca-5d9c2c829134%2F2f5e0b37-488f-407e-96b8-51279f18e112%2Fimage.png?table=block&id=11ad5737-a4db-804c-8740-d229ad6026a9&spaceId=19108f08-903f-4008-88ca-5d9c2c829134&width=2000&userId=11ad872b-594c-8125-a346-000279436cff&cache=v2
+<img src="[http://lineadecodigo.com/imagenes/logo.jpg](https://www.notion.so/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F19108f08-903f-4008-88ca-5d9c2c829134%2F2f5e0b37-488f-407e-96b8-51279f18e112%2Fimage.png?table=block&id=11ad5737-a4db-804c-8740-d229ad6026a9&spaceId=19108f08-903f-4008-88ca-5d9c2c829134&width=2000&userId=11ad872b-594c-8125-a346-000279436cff&cache=v2)" alt="" />
+
 
 ## Participantes
 
