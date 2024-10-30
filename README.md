@@ -20,7 +20,7 @@ Techland plataforma de cursos de IT online dirigidos a estudiantes y publico en 
 
 1. Clona el repositorio:
    ```bash
-   git clone https://github.com/usuario/proyecto.git
+   git clone https://github.com/No-Country-simulation/s18-27-mobile.git
    
 ## Tecnologias 
 
