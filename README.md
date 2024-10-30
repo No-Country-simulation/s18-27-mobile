@@ -32,7 +32,7 @@ Techland plataforma de cursos de IT online dirigidos a estudiantes y publico en 
 
 
   
-<img src="https://www.notion.so/Testing-de-aplicaciones-Mobile-b6b9eaf27f5047c2bb9a942489c6bffe" alt="" />
+<img src="https://img.notionusercontent.com/s3/prod-files-secure%2F19108f08-903f-4008-88ca-5d9c2c829134%2F08b568f0-35aa-4fcc-99fb-b9d50bc65d87%2Fimage.png/size/w=2000?exp=1730305562&sig=20auwhF0vSwNeVr1fFaCDb9iJXcp85rvQJRQab0wkHk" alt="" />
 
 
 ## Participantes
