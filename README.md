@@ -31,9 +31,10 @@ Techland plataforma de cursos de IT online dirigidos a estudiantes y publico en 
 ## MVP NO COUNTRY
 
 
-  ![Anotación 2024-04-17 123016](https://github.com/user-attachments/assets/647bf703-e34d-46e4-8ced-86e3fde559ed)
+![WhatsApp Image 2024-10-11 at 11 51 33 AM](https://github.com/user-attachments/assets/4d0f5074-970a-4298-9bed-d2ee2042d94b)
 
-<img src="" alt="" />
+
+
 
 
 ## Participantes
