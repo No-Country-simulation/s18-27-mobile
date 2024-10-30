@@ -16,6 +16,8 @@ Techland plataforma de cursos de IT online dirigidos a estudiantes y publico en 
 
 # Testing de aplicaciones Mobile
 
+![WhatsApp Image 2024-10-11 at 11 51 33 AM](https://github.com/user-attachments/assets/6845d29b-d6cb-4408-8f7b-4a3754ef727e)
+
 # Tipos de aplicaciones
 
 - App Nativas
