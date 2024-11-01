@@ -130,6 +130,20 @@ El objetivo es entender el flujo completo de la aplicación para cada rol y aseg
 
 En esta etapa recurrimos a FIGMA para la creación de nuestra maqueta de TechLand, el flujo de trabajo será enfocado a distintos escenarios, como por ejemplo, el registro de usuario, o cambiar información del perfil. A continuación voy a integrar la plataforma para observar el Mock up. 
 
+## Demo
+
+
+
+https://github.com/user-attachments/assets/de5cd40e-eb38-4695-a6aa-0e66707f9533
+
+
+
+
+
+
+
+
+
 
 ## Participantes
 
